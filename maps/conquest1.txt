@@ -1,0 +1,12 @@
+1,Russia,China,Pakistan,Iran,Iraq,Japan
+2,China,Japan,India,Pakistan,Russia
+3,India,China,Pakistan
+4,Japan,China,Russia
+5,Iran,Russia,Iraq,Saudi,Pakistan,SAfrica
+6,Pakistan,India,China,Iran,Russia
+7,Saudi,Iraq,Iran
+8,Iraq,Iran,Saudi,Russia
+64,Congo,Sudan,Angola
+65,Sudan,Congo,Angola
+66,Angola,Sudan,Congo,SAfrica
+67,SAfrica,Angola,Iran

@@ -1,0 +1,12 @@
+21,Canada,America,Ireland
+22,America,Canada,Mexico
+23,Mexico,America,Columbia
+31,Brazil,Argentina,Columbia,Peru
+32,Columbia,Mexico,Brazil,Peru
+33,Peru,Brazil,Columbia,Chile
+34,Chile,Argentina,Peru,France
+35,Argentina,Chile,Brazil
+45,France,UK,Italy,Chile
+47,Italy,France
+48,UK,Ireland,France
+49,Ireland,Canada,UK

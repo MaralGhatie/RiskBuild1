@@ -1,0 +1,9 @@
+1,Mexico,America,Columbia
+2,Brazil,Argentina,Columbia,Peru
+3,Columbia,Mexico,Brazil,Peru
+4,Peru,Brazil,Columbia,Chile
+5,Chile,Argentina,Peru
+6,Argentina,Chile,Brazil
+7,Queensland,Victoria,WAustralia
+8,Victoria,WAustralia,Queensland,Chile
+9,WAustralia,Queensland,Victoria
